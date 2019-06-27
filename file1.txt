@@ -10,6 +10,7 @@ class Hellogit{
 public static void  main(String arg[]){
 
 	system.out.println("Hello git ...!!!");
+              helloGit obj = new helloGit();
 
 
    }
