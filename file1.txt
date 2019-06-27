@@ -2,15 +2,17 @@ This is my first git ... welcome to git sigham...!!
 
 class Hellogit{
 
-	void hellogit(){
+public static void hellogit(String arg[])
+{
 		system.out.println("Hello git ...welcome"");
 }
 
 
 public static void  main(String arg[]){
 
-	system.out.println("Hello git ...!!!");
               helloGit obj = new helloGit();
+		obj.hellogit();
+
 
 
    }
