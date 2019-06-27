@@ -13,5 +13,9 @@ public static void  main(String arg[]){
 
 
    }
+void MyBigMethod (){
+        sysout ("has a method ");
+}
+
 }
 
